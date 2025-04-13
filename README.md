@@ -1,5 +1,6 @@
-# GoogleAnalytics  
-  
+# Google Analytics  
+
+Шпаргалка по подключению сайта к Google Analytics:    
 1. Переходим на сайт https://analytics.google.com/analytics/web/provision/#/provision и нажимаем кнопку "Создать аккаунт".  
 2. В настройках ресурса пишем название ресурса, заполняем данные страна, часовой пояс, валюта, а также создаём ресурс Universal Analytics.  
 3. Указываем сведения о своей компании и количеству сотрудников.    
